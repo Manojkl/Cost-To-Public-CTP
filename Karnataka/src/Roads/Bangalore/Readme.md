@@ -14,6 +14,7 @@ These initiatives reflect significant investments by both BBMP and BDA to enhanc
 - Expenditure spending data on Roads
 - Corruption data on Road Infrastructure
 - Create the database
+- Colloborate with Google Maps to build the system. Both Road Inspection as well streetview data on Google Maps can be done.
 
 In Bengaluru, the maintenance and development of roads are primarily managed by two agencies: the Bruhat Bengaluru Mahanagara Palike (BBMP) and the Bangalore Development Authority (BDA).
 
